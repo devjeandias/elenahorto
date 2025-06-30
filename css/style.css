@@ -82,6 +82,10 @@ li {
     letter-spacing: 0;
 }
 
+#banner img {
+    margin: 0 auto;
+}
+
 .galery {
     background-color: #F8F8F8;
     padding-bottom: 40px;
