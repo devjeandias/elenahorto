@@ -84,6 +84,7 @@ li {
 
 #banner img {
     margin: 0 auto;
+    display: block;
 }
 
 .galery {
